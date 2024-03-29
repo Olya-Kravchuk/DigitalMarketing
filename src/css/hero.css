@@ -1,0 +1,100 @@
+.container {
+}
+.hero-section {
+  padding: 32px 0 56px;
+}
+.hero-main-box {
+}
+.hero-title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.25;
+  letter-spacing: -0.03em;
+  color: #1d1e25;
+  margin-bottom: 48px;
+  width: 330px;
+  }
+  .hero-description {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #1d1e25;
+  margin-bottom: 40px;
+  }
+.hero-rorm {
+  display: flex;
+  gap: 8px;
+}
+.hero-input {
+  width: 219px;
+  border: none;
+  border-bottom: 1px solid #7e8492;
+  background-color: transparent;
+  font-family: "Inter", sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.42857;
+color: #7e8492;
+padding: 0 0 16px;
+}
+.hero-rorm-btn {
+  border-radius: 100px;
+padding: 8px 16px;
+background-color: #1d1e25;
+font-weight: 700;
+font-size: 12px;
+line-height: 1.66667;
+color: #fff;
+width: 108px;
+}
+.hero-img-box {
+}
+.hero-sales-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 56px;
+  padding: 16px;
+}
+.hero-subtitle-sales {
+  text-align: left;
+  margin-bottom: 12px;
+font-weight: 700;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: -0.02em;
+color: #1d1e25;
+}
+.hero-img-sales {
+}
+.hero-customer-box {
+}
+.hero-subtitle-customer {
+}
+.hero-icon-customer {
+}
+.hero-text-box {
+}
+.hero-text-sales-box {
+}
+.hero-sum-sales {
+}
+.hero-up-icon {
+}
+.hero-interest-sales {
+}
+.hero-period-sales {
+}
+.hero-text-marketing-box {
+}
+.hero-subtitle-marketing {
+}
+.hero-sum-marketing {
+}
+.hero-down-icon {
+}
+.hero-interest-marketing {
+}
+.hero-period-marketing {
+}
