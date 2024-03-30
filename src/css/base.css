@@ -5,6 +5,36 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+:root {
+	--color: #50cd89;
+	--color: #46b277;
+	--color: #f2fff8;
+	--color: #28593f;
+	--color: #c5eed8;
+	--color: rgba(80, 205, 137, 0.2);
+	--untitled-color: #ffd33c;
+	--untitled-color: #d5b032;
+	--untitled-color: #fff6d8;
+	--untitled-color: #806a1e;
+	--untitled-color: #fff0be;
+	--untitled-color: #fff6d8;
+	--primary-color: #2e8dff;
+	--primary-color: #1463ff;
+	--primary-color: #f5f5ff;
+	--primary-color: #085885;
+	--primary-color: #dfe0f3;
+	--primary-color: rgba(76, 77, 220, 0.2);
+	--neutral-10: #fff;
+	--neutral-20: #f5f5f5;
+	--neutral-30: #ededed;
+	--neutral-40: #ced1d8;
+	--neutral-50: #afb3bb;
+	--neutral-60: #7e8492;
+	--neutral-70: #606060;
+	--neutral-80: #35373d;
+	--neutral-90: #161a34;
+	--neutral-100: #1d1e25;
+}
 
 body {
   font-family: 'Inter', sans-serif;
@@ -12,7 +42,8 @@ body {
   /* font-weight: <weight>;
   font-style: normal;
   font-variation-settings: 'slnt' 0; */
-  background-color: #f5f5f5;
+  /* background-color: #f5f5f5; */
+  background-color: #fff;
   color: #7e8492;
 }
 
@@ -37,11 +68,15 @@ img {
 @media screen and (min-width: 768px) {
   .container {
     max-width: 768px;
+		padding-left: 50px;
+  padding-right: 50px;
   }
 }
 
 @media screen and (min-width: 1440px) {
   .container {
     max-width: 1440px;
+		padding-left: 120px;
+  padding-right: 120px;
   }
 }
